@@ -8,6 +8,7 @@ class MmtMsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
